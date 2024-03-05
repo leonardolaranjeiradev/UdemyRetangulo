@@ -17,7 +17,7 @@ public class Program {
 		retangulo.largura = sc.nextDouble();
 		
 		System.out.printf("AREA = %.2f%n", retangulo.area());
-		System.out.printf("PERIMETRO = %.2f%n", retangulo.perimetro());
+		
 		
 		
 		sc.close();
