@@ -16,7 +16,7 @@ public class Program {
 		retangulo.altura = sc.nextDouble();
 		retangulo.largura = sc.nextDouble();
 		
-		System.out.printf("AREA = %.2f%n", retangulo.area());
+		System.out.println("AREA = " + retangulo.area());
 		
 		
 		

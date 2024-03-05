@@ -6,6 +6,6 @@ public class Retangulo {
 	public double altura;
 	
 	public double area() {
-		return largura * altura;
+		return String.format("%.2f", (largura * altura));
 	}
 }
