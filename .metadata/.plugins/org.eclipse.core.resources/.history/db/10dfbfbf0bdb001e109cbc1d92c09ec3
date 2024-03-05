@@ -14,7 +14,7 @@ public class Retangulo {
 	}
 	
 	public double diagonal() {
-		double d = Math.sqrt((Math.pow(altura, 2.00)) + (Math.pow(largura, 2.00)));
+		double d = Math.sqrt(Math.pow(2.0, altura) + Math.pow(2.0, largura));
 		return d;
 	}
 }
