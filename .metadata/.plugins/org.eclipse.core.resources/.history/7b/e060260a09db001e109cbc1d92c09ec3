@@ -1,0 +1,21 @@
+package entities;
+
+public class Retangulo {
+	
+	public double largura;
+	public double altura;
+	
+	public double area() {
+		return altura;		
+	}
+	
+	public double perimetro() {
+		return altura;		
+	}
+	
+	public double diagonal() {
+		return altura;		
+	}
+	
+	
+}

@@ -1,0 +1,10 @@
+package entities;
+
+public class Retangulo {
+	
+	public double largura;
+	public double altura;
+	
+	
+	
+}
